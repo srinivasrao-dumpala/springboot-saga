@@ -1,6 +1,6 @@
 package com.innutshell;
 
-public class Main {
+public class CommonsDtoApplication {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
